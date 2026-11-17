@@ -3,7 +3,7 @@ name = "SigmaOS-archlinux-nvimrc"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "archlinux-nvimrc component"
+description = "SigmaOS component repository"
 upstream = []
 
 [contract]
